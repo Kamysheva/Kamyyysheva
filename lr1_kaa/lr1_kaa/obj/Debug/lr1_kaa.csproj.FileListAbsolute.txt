@@ -1,0 +1,11 @@
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\bin\Debug\lr1_kaa.exe.config
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\bin\Debug\lr1_kaa.exe
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\bin\Debug\lr1_kaa.pdb
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\obj\Debug\lr1_kaa.csproj.AssemblyReference.cache
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\obj\Debug\lr1_kaa.Form1.resources
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\obj\Debug\lr1_kaa.Properties.Resources.resources
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\obj\Debug\lr1_kaa.csproj.GenerateResource.cache
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\obj\Debug\lr1_kaa.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\obj\Debug\lr1_kaa.exe
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\obj\Debug\lr1_kaa.pdb
+C:\Users\Alisa\source\repos\lr1_kaa\lr1_kaa\obj\Debug\lr1_kaa.Form2.resources
